@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
     slug: 'pack-of-2',
     price: 1749,
     packSize: 2,
-    image: '/images/pack-2.jpg',
+    image: '/images/teetales-2.png',
     colors: COLOR_SWATCHES.slice(0, 6),
   },
   {
@@ -50,7 +50,7 @@ export const PRODUCTS: Product[] = [
     price: 2299,
     packSize: 3,
     badge: { label: 'Best Seller', variant: 'bestseller' },
-    image: '/images/pack-3.jpg',
+    image: '/images/teetales-3.png',
     colors: COLOR_SWATCHES.slice(0, 6),
   },
   {
@@ -61,7 +61,7 @@ export const PRODUCTS: Product[] = [
     originalPrice: 4250,
     packSize: 5,
     badge: { label: 'Most Popular', variant: 'popular' },
-    image: '/images/pack-5.jpg',
+    image: '/images/teetales-5.png',
     colors: COLOR_SWATCHES,
   },
   {
@@ -71,7 +71,7 @@ export const PRODUCTS: Product[] = [
     price: 4799,
     packSize: 7,
     badge: { label: 'Trending', variant: 'trending' },
-    image: '/images/pack-7.jpg',
+    image: '/images/teetales-6.png',
     colors: COLOR_SWATCHES,
   },
   {
@@ -81,7 +81,7 @@ export const PRODUCTS: Product[] = [
     price: 6599,
     packSize: 10,
     badge: { label: 'Best Value', variant: 'value' },
-    image: '/images/pack-10.jpg',
+    image: '/images/teetales-7.png',
     colors: COLOR_SWATCHES,
   },
 ]
