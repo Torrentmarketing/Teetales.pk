@@ -84,7 +84,7 @@ export function UGCSection() {
 }
 
 /* ── StickyBar ── */
-export function StickyBar() {
+export default function StickyBar() {
   return (
     <div className="sticky bottom-0 z-40 bg-[#18120E] border-t border-[#2A1F18]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between gap-4 flex-wrap">

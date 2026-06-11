@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Badge } from '@/components/ui'
 import type { Product } from '@/lib/types'
 
-interface ProductCardProps {
+export interface ProductCardProps {
   product: Product
   size?: 'sm' | 'md' | 'lg'
   showColors?: boolean

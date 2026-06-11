@@ -49,7 +49,7 @@ export function LifestyleSection() {
 }
 
 /* ── UGCSection ── */
-export function UGCSection() {
+export default function UGCSection() {
   return (
     <section className="bg-[#F0EBE1] py-16 text-center">
       <div className="max-w-3xl mx-auto px-4">

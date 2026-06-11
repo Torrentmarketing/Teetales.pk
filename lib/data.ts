@@ -1,4 +1,4 @@
-import { ProductCardProps } from '@/components/ui/ProductCard';
+import { ProductCardProps } from '../components/ui/ProductCard';
 
 export const BRAND = {
   name:     'TeeTales',

@@ -111,7 +111,7 @@ export function StickyBar() {
 }
 
 /* ── Footer ── */
-export function Footer() {
+export default function Footer() {
   const links = [
     { label: 'Home', href: '/' },
     { label: 'About', href: '/about' },
